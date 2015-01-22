@@ -1,0 +1,33 @@
+{
+	// BUILD JSON CAROUSEL WITH IMAGE URLS!!! 
+	"data": [
+	{
+		//function(key = "id", value = 1)
+		"id": 1,
+		"display": "My First Item",
+		"value": 100
+
+	}
+	{
+		//function(key = "id", value = 1)
+		"id": 2,
+		"display": "My Second Item",
+		"value": 100
+
+	}
+	{
+		//function(key = "id", value = 1)
+		"id": 3,
+		"display": "My Third Item",
+		"value": 100
+
+	}
+	{
+		//function(key = "id", value = 1)
+		"id": 4,
+		"display": "My Fourth Item",
+		"value": 100
+
+	}
+	]
+}
